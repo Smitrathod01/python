@@ -1,0 +1,3 @@
+print('''Twinkle Twinkle little star
+      how i wonder what you you are 
+      like a diamond in sky''')#for multi line string use three quotes...
